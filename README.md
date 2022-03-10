@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstfrs" alt="mstfrs" /></a> </p>
 
-- 🔭 I’m currently working on **Django Blog App**
+- 🔭 I’m currently working on **Django Quiz App**
 
 - 🌱 I’m currently learning **PostreSql and Django**
 
