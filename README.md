@@ -1,5 +1,6 @@
 <h3 align="center">Hi There. I'm Mustafa...</h3>
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mstfrs/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstfrs&label=Profile%20views&color=0e75b6&style=flat" alt="mstfrs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstfrs" alt="mstfrs" /></a> </p>
