@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mstfrs" alt="mstfrs" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce App**
-
-- 🌱 I’m currently learning **Express.js**
-
-- 👯 I’m looking to collaborate on **any backend project**
-
 - 📫 How to reach me **mstfrs68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
